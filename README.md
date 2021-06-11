@@ -1,2 +1,2 @@
-# hanati
+# hanaTI
 HanaTI Repository
